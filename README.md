@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-seminar/
 まお教授
 エルマス
 わかば
+デスピサロ
 
 # ディレクトリ構成
 ```
